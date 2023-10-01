@@ -24,7 +24,6 @@ console.log(Array.from("Gajendera")); // ['G', 'a', 'j', 'e', 'n', 'd', 'e', 'r'
 
 console.log(Array.from({name: "Gajendera"})); // []
 
-
 let score1 = 100;
 let score2 = 200;
 let score3 = 200;
